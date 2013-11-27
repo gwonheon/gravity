@@ -6,18 +6,18 @@ body {
 
 @-webkit-keyframes anim {
     0% {
-        -webkit-transform: translate(0px, 100px);
+        -webkit-transform: translate(400px, 100px);
         
     }
     25% {
-        -webkit-transform: translate(150px, 100px);3
+        -webkit-transform: translate(200px, 150px) rotateX(180deg);
     }
     50% {
-        -webkit-transform: translate(150px, 0px) rotateY(180deg);
+        -webkit-transform: translate(100px, 50px) rotateY(180deg);
     
     }
     100% {
-        -webkit-transform: translate(300px, 100px);
+        -webkit-transform: translate(400px, 100px);
     }
 }
 
