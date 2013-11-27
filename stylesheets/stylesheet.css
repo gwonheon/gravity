@@ -23,7 +23,7 @@ body {
 
 #panda {
     position: absolute;
--webkit-animation: anim 20s infinite;
+-webkit-animation: anim 40s infinite;
 }
 
 #stage {
