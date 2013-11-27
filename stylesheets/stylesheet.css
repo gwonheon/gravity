@@ -43,9 +43,6 @@ body {
     position: absolute;
     width: 250px;
     height: 250px;
-    -webkit-transform: translate(0, 0px) rotateX(90deg);
-    font-size: 100px;
-    text-align: center;
-    line-height: 200px;
+    -webkit-transform: rotateX(90deg);
 }
 
